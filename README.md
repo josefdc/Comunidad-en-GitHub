@@ -1,4 +1,4 @@
-# Comunidad en GitHub
+# 🌟 Comunidad en GitHub 🌟
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
@@ -13,48 +13,47 @@
   </tr>
 </table>
 
-## Temas
+## 📚 Temas
 
-### Forks - Contribuir
+### 🍴 Forks - Contribuir
 Aprende cómo hacer forks y contribuir a proyectos de otros usuarios en GitHub.
 
-### GitHub Community
+### 🌐 GitHub Community
 GitHub Community está diseñado para apoyar a todos los usuarios de GitHub en su viaje educativo. Es un centro de recursos, un portal de aprendizaje y una estación de inspiración, todo en uno. Sin importar cuán grande o pequeño sea tu desafío, todos los recursos e información estarán accesibles de manera verdaderamente de código abierto.
-- [Discussions & Product Feedback](https://github.community/)
-- [Join Global Campus](https://education.github.com/)
-- [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
-- [Student Developer Pack Application & FAQs](https://education.github.com/pack)
-- [Documentation](https://docs.github.com/)
-- [GitHub Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service)
-- [GitHub Community Forum Code of Conduct](https://docs.github.com/en/github/site-policy/github-community-forum-code-of-conduct)
-- [Other Ways to Participate](https://github.com/github/feedback/discussions/6913)
-- [GitHub Stars Program](https://stars.github.com/)
-- [GitHub Campus Experts Program](https://education.github.com/experts)
-- [GitHub Events](https://github.com/events)
-- [GitHub Blog](https://github.blog/)
-- [The ReadME Project & Podcast](https://github.com/readme)
-- [GitHub YouTube Channel](https://www.youtube.com/github)
+- [💬 Discussions & Product Feedback](https://github.community/)
+- [🏫 Join Global Campus](https://education.github.com/)
+- [📜 GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
+- [📦 Student Developer Pack Application & FAQs](https://education.github.com/pack)
+- [📚 Documentation](https://docs.github.com/)
+- [⚖️ GitHub Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+- [🚨 GitHub Community Forum Code of Conduct](https://docs.github.com/en/github/site-policy/github-community-forum-code-of-conduct)
+- [🌟 Other Ways to Participate](https://github.com/github/feedback/discussions/6913)
+- [⭐ GitHub Stars Program](https://stars.github.com/)
+- [🎓 GitHub Campus Experts Program](https://education.github.com/experts)
+- [📅 GitHub Events](https://github.com/events)
+- [📝 GitHub Blog](https://github.blog/)
+- [🎙️ The ReadME Project & Podcast](https://github.com/readme)
+- [📺 GitHub YouTube Channel](https://www.youtube.com/github)
 
-### GitTogethers | Meetup Pro
+### 🤝 GitTogethers | Meetup Pro
 Participa en eventos y meetups organizados por GitHub y la comunidad de desarrolladores.
-- [GitTogethers](https://meetup.github.com/)
-- [Meetup Pro](https://www.meetup.com/pro/)
+- [🎉 GitTogethers](https://meetup.github.com/)
+- [📅 Meetup Pro](https://www.meetup.com/pro/)
 
-### Sponsor GitHub Sponsors
+### 💸 Sponsor GitHub Sponsors
 Aprende cómo puedes patrocinar proyectos en GitHub y recibir apoyo financiero para tu trabajo open source.
-- [GitHub Sponsors](https://github.com/sponsors)
+- [💰 GitHub Sponsors](https://github.com/sponsors)
 
-### README bonito
+### 📜 README bonito
 Consejos y herramientas para crear un README atractivo y efectivo para tu proyecto.
-- [README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [📝 README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
-
-### GitHub Stars
+### 🌟 GitHub Stars
 Explora el programa de GitHub Stars y cómo puedes participar.
-- [GitHub Stars](https://stars.github.com/)
+- [⭐ GitHub Stars](https://stars.github.com/)
 
-### Dar recursos
+### 📚 Dar recursos
 Recursos adicionales para aprender y conectarse con la comunidad:
-- [Canal de YouTube](https://www.youtube.com/github)
-- [Podcast](https://github.com/readme/podcast)
-- [Redes sociales](https://twitter.com/github)
+- [📺 Canal de YouTube](https://www.youtube.com/github)
+- [🎙️ Podcast](https://github.com/readme/podcast)
+- [🔗 Redes sociales](https://twitter.com/github)
