@@ -46,10 +46,12 @@ Aprende cómo puedes patrocinar proyectos en GitHub y recibir apoyo financiero p
 
 ### README bonito
 Consejos y herramientas para crear un README atractivo y efectivo para tu proyecto.
+- [README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+
 
 ### GitHub Stars
 Explora el programa de GitHub Stars y cómo puedes participar.
-- [GitHub Sponsors](https://stars.github.com/)
+- [GitHub Stars](https://stars.github.com/)
 
 ### Dar recursos
 Recursos adicionales para aprender y conectarse con la comunidad:
