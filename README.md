@@ -22,6 +22,7 @@ Aprende cómo hacer forks y contribuir a proyectos de otros usuarios en GitHub.
 GitHub Community está diseñado para apoyar a todos los usuarios de GitHub en su viaje educativo. Es un centro de recursos, un portal de aprendizaje y una estación de inspiración, todo en uno. Sin importar cuán grande o pequeño sea tu desafío, todos los recursos e información estarán accesibles de manera verdaderamente de código abierto.
 - [💬 Discussions & Product Feedback](https://github.community/)
 - [🏫 Join Global Campus](https://education.github.com/)
+- [🔥Repositorios en Tendencia](https://github.com/trending)
 - [📜 GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
 - [📦 Student Developer Pack Application & FAQs](https://education.github.com/pack)
 - [📚 Documentation](https://docs.github.com/)
