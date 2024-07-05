@@ -49,6 +49,7 @@ Consejos y herramientas para crear un README atractivo y efectivo para tu proyec
 
 ### GitHub Stars
 Explora el programa de GitHub Stars y cómo puedes participar.
+- [GitHub Sponsors](https://stars.github.com/)
 
 ### Dar recursos
 Recursos adicionales para aprender y conectarse con la comunidad:
