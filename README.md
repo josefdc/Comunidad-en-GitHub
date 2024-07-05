@@ -1,13 +1,17 @@
 # Comunidad en GitHub
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/77589315?v=4" alt="Presentador 1" width="180" height="180" style="border-radius:50%; margin-right: 20px;">
-  <img src="https://avatars.githubusercontent.com/u/69173681?v=4" alt="Presentador 2" width="180" height="180" style="border-radius:50%; margin-left: 20px;">
-</p>
-
-<p align="center">
-  <a href="https://github.com/josefdc">@josefdc</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/nquirogac">@nquirogac</a>
-</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="padding: 10px; border: none;">
+      <img src="https://avatars.githubusercontent.com/u/77589315?v=4" alt="Presentador 1" width="180" height="180" style="border-radius:50%;"><br>
+      <a href="https://github.com/josefdc">@josefdc</a>
+    </td>
+    <td align="center" style="padding: 10px; border: none;">
+      <img src="https://avatars.githubusercontent.com/u/69173681?v=4" alt="Presentador 2" width="180" height="180" style="border-radius:50%;"><br>
+      <a href="https://github.com/nquirogac">@nquirogac</a>
+    </td>
+  </tr>
+</table>
 
 ## Temas
 
